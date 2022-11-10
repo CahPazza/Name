@@ -1,0 +1,7 @@
+Comandos git:
+
+git init
+user.name
+user.emal
+add
+-m
